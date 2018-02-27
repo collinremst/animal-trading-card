@@ -6,7 +6,7 @@ The main goal is to recreate a card based on a mockup, change content and to exp
 
 [Live version](https://collinremst.github.io/animal-trading-card/)
 
-### Sources
+## Sources
 1. Image and information source [WWF](https://www.worldwildlife.org/species/chimpanzee)
 
 ### Mockup 
